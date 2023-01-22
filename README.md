@@ -1,2 +1,3 @@
-Utah Tech CS major
+python, c++, web
+
 
